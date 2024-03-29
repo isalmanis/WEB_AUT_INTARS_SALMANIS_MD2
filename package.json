@@ -1,0 +1,14 @@
+{
+  "name": "web_aut_intars_salmanis_md2",
+  "version": "1.0.0",
+  "description": "web aut md 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "isalmanis",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.7.1"
+  }
+}
